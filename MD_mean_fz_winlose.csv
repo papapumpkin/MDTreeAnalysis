@@ -1,0 +1,135 @@
+Spp#,SppCN,SppSN,ClimIndx,ModRely,ModCur,HadHiDif,PcmLoDif,Gcm3AvgHiDif,Gcm3AvgLoDif
+12,balsam fir,Abies balsamea,3.5,1,0.00,0.00,0.00,0.00,0.00
+43,Atlantic white-cedar,Chamaecyparis thyoides,1,3,0.00,-0.00,-0.00,-0.00,-0.00
+68,eastern redcedar,Juniperus virginiana,4,2,1.11,1.27,0.50,1.32,1.10
+71,tamarack (native),Larix laricina,2.5,1,0.00,0.00,0.00,0.00,0.00
+94,white spruce,Picea glauca,3.5,2,0.00,0.00,0.00,0.00,0.00
+95,black spruce,Picea mariana,4,1,0.00,0.00,0.00,0.00,0.00
+97,red spruce,Picea rubens,4,1,0.05,-0.05,-0.05,-0.05,-0.05
+105,jack pine,Pinus banksiana,3,1,0.00,0.00,0.00,0.00,0.00
+107,sand pine,Pinus clausa,0,2,0.00,0.00,0.00,0.00,0.00
+110,shortleaf pine,Pinus echinata,3.5,1,0.20,3.16,1.14,2.95,1.76
+111,slash pine,Pinus elliottii,2,1,0.00,1.37,0.00,0.89,0.08
+115,spruce pine,Pinus glabra,0,2,0.00,0.00,0.00,0.00,0.00
+121,longleaf pine,Pinus palustris,2.5,1,0.00,0.57,0.04,0.20,0.05
+123,Table Mountain pine,Pinus pungens,1.5,2,0.01,0.02,0.02,0.02,0.02
+125,red pine,Pinus resinosa,3,2,0.07,-0.07,-0.07,-0.07,-0.07
+126,pitch pine,Pinus rigida,0,1,0.55,-0.46,-0.46,-0.46,-0.46
+128,pond pine,Pinus serotina,4,1,0.00,0.22,0.02,0.22,0.22
+129,eastern white pine,Pinus strobus,3,1,0.66,-0.60,-0.46,-0.58,-0.45
+131,loblolly pine,Pinus taeda,3.5,1,2.97,6.13,2.47,5.02,2.87
+132,Virginia pine,Pinus virginiana,2,1,2.76,-1.69,-1.45,-1.72,-1.71
+221,baldcypress,Taxodium distichum,0,2,0.00,0.78,0.31,0.75,0.48
+222,pondcypress,Taxodium distichum var. nutans,4,1,0.00,0.00,0.00,0.00,0.00
+241,northern white-cedar,Thuja occidentalis,3.5,1,0.00,0.00,0.00,0.00,0.00
+261,eastern hemlock,Tsuga canadensis,3.5,1,0.34,-0.25,-0.15,-0.26,-0.21
+311,Florida maple,Acer barbatum,3.5,2,0.00,0.00,0.00,0.00,0.00
+313,boxelder,Acer negundo,0,2,0.41,-0.10,-0.05,-0.03,-0.04
+314,black maple,Acer nigrum,1,3,0.00,0.00,0.00,0.00,0.00
+315,striped maple,Acer pensylvanicum,3.5,1,0.19,-0.14,-0.07,-0.14,-0.11
+316,red maple,Acer rubrum,3.5,1,10.66,-6.20,-3.23,-6.11,-4.83
+317,silver maple,Acer saccharinum,2.5,2,0.10,1.93,-0.01,1.34,0.06
+318,sugar maple,Acer saccharum,1,1,2.00,-1.85,-0.12,-1.69,-0.85
+319,mountain maple,Acer spicatum,3.5,1,0.00,0.00,0.00,0.00,0.00
+331,Ohio buckeye,Aesculus glabra,3.5,3,0.00,0.00,0.00,0.00,0.00
+332,yellow buckeye,Aesculus octandra,0,2,0.00,0.02,0.01,0.02,0.01
+356,serviceberry,Amelanchier spp.,0,2,0.27,-0.13,-0.10,-0.12,-0.10
+367,pawpaw,Asimina triloba,3,3,0.05,-0.05,-0.04,-0.05,-0.04
+371,yellow birch,Betula alleghaniensis,4.5,1,0.14,-0.12,-0.08,-0.12,-0.12
+372,sweet birch,Betula lenta,3.5,1,0.80,-0.55,-0.40,-0.56,-0.45
+373,river birch,Betula nigra,2,3,0.05,0.30,0.07,0.18,0.06
+375,paper birch,Betula papyrifera,3.5,1,0.00,0.00,0.00,0.00,0.00
+379,gray birch,Betula populifolia,3,2,0.00,0.00,0.00,0.00,0.00
+381,chittamwood:gum bumelia,Bumelia lanuginosa,4,3,0.00,0.00,0.00,0.00,0.00
+391,American hornbeam:musclewood,Carpinus caroliniana,0,2,1.06,0.01,-0.28,-0.09,-0.22
+401,water hickory,Carya aquatica,0,2,0.00,0.00,0.00,0.00,0.00
+402,bitternut hickory,Carya cordiformis,3.5,3,0.00,1.98,0.09,1.71,0.36
+403,pignut hickory,Carya glabra,3.5,1,1.72,-0.43,-0.16,-0.43,-0.41
+404,pecan,Carya illinoinensis,2.5,3,0.00,0.36,0.00,0.08,0.02
+405,shellbark hickory,Carya laciniosa,3.5,3,0.00,0.00,0.00,0.00,0.00
+407,shagbark hickory,Carya ovata,4,2,0.18,0.52,0.36,0.47,0.41
+408,black hickory,Carya texana,3.5,1,0.05,2.69,1.15,2.74,2.22
+409,mockernut hickory,Carya tomentosa,3.5,1,1.44,0.44,0.13,0.38,0.22
+421,American chestnut,Castanea dentata,3,2,0.04,-0.04,-0.03,-0.04,-0.03
+452,northern catalpa,Catalpa speciosa,0,3,0.00,0.09,0.01,0.06,0.01
+461,sugarberry,Celtis laevigata,0,2,0.00,1.42,0.29,1.18,0.80
+462,hackberry,Celtis occidentalis,3,2,0.15,0.83,0.07,0.57,0.08
+471,eastern redbud,Cercis canadensis,2.5,2,0.24,0.11,-0.04,-0.10,-0.03
+491,flowering dogwood,Cornus florida,0,1,2.44,-0.50,-0.00,-0.45,-0.12
+521,common persimmon,Diospyros virginiana,3.5,2,0.47,1.69,0.39,1.56,0.76
+531,American beech,Fagus grandifolia,1.5,1,2.62,-1.99,-1.20,-1.91,-1.55
+541,white ash,Fraxinus americana,3,1,2.37,-0.79,-0.29,-0.78,-0.61
+543,black ash,Fraxinus nigra,2,1,0.00,0.00,0.00,0.00,0.00
+544,green ash,Fraxinus pennsylvanica,3.5,2,0.93,0.20,-0.15,0.14,-0.01
+546,blue ash,Fraxinus quadrangulata,2,3,0.00,0.00,0.00,0.00,0.00
+551,waterlocust,Gleditsia aquatica,1,3,0.00,0.09,0.00,0.18,0.00
+552,honeylocust,Gleditsia triacanthos,4,3,0.00,0.54,0.00,0.15,0.00
+555,loblolly-bay,Gordonia lasianthus,1.5,2,0.00,0.00,0.00,0.00,0.00
+571,Kentucky coffeetree,Gymnocladus dioicus,3,3,0.00,0.00,0.00,0.00,0.00
+580,silverbell,Halesia spp.,3,2,0.00,0.00,0.00,0.00,0.00
+591,American holly,Ilex opaca,3.5,1,1.48,-0.71,-0.27,-0.66,-0.52
+601,butternut,Juglans cinerea,3.5,3,0.00,0.00,0.00,0.00,0.00
+602,black walnut,Juglans nigra,3.5,2,0.89,-0.78,-0.20,-0.73,-0.43
+611,sweetgum,Liquidambar styraciflua,2.5,1,4.45,1.49,1.17,1.38,1.31
+621,yellow-poplar,Liriodendron tulipifera,2.5,1,5.26,-4.06,-2.39,-4.05,-3.64
+641,osage-orange,Maclura pomifera,3.5,2,0.00,0.56,0.00,0.36,0.02
+651,cucumbertree,Magnolia acuminata,2.5,1,0.09,-0.01,0.01,-0.03,-0.00
+652,southern magnolia,Magnolia grandiflora,3,2,0.00,0.00,0.00,0.00,0.00
+653,sweetbay,Magnolia virginiana,1.5,1,0.26,0.26,0.14,0.17,0.13
+654,bigleaf magnolia,Magnolia macrophylla,3.5,3,0.00,0.00,0.00,0.00,0.00
+682,red mulberry,Morus rubra,3.5,3,0.03,0.98,-0.03,0.47,0.07
+691,water tupelo,Nyssa aquatica,2,2,0.05,0.42,0.42,0.38,0.41
+692,Ogechee tupelo,Nyssa ogeche,0,2,0.00,0.00,0.00,0.00,0.00
+693,blackgum,Nyssa sylvatica,2,1,3.41,-0.77,-0.90,-0.93,-1.04
+694,swamp tupelo,Nyssa sylvatica var. biflora,2.5,1,0.01,0.61,0.34,0.44,0.37
+701,eastern hophornbeam,Ostrya virginiana,0,2,0.49,0.65,0.13,0.48,0.22
+711,sourwood,Oxydendrum arboreum,2.5,1,0.12,-0.05,0.16,-0.07,-0.06
+721,redbay,Persea borbonia,3.5,1,0.00,0.12,0.00,0.00,0.00
+722,water-elm,Planera aquatica,0,3,0.00,0.00,0.00,0.00,0.00
+731,sycamore,Platanus occidentalis,1.5,2,0.58,0.33,0.04,0.31,0.28
+741,balsam poplar,Populus balsamifera,4.5,1,0.00,0.00,0.00,0.00,0.00
+742,eastern cottonwood,Populus deltoides,1,3,0.04,0.86,-0.04,0.36,0.00
+743,bigtooth aspen,Populus grandidentata,4,1,0.09,-0.09,-0.00,-0.09,-0.05
+746,quaking aspen,Populus tremuloides,4,1,0.10,-0.10,-0.10,-0.10,-0.10
+761,pin cherry,Prunus pensylvanica,3.5,2,0.01,-0.01,-0.01,-0.01,-0.01
+762,black cherry,Prunus serotina,3,1,3.71,-2.21,-1.51,-2.30,-1.94
+763,chokecherry,Prunus virginiana,4,3,0.13,-0.13,-0.13,-0.13,-0.13
+766,wild plum,Prunus americana,2.5,3,0.00,0.00,0.00,0.00,0.00
+802,white oak,Quercus alba,3.5,1,5.22,-2.11,-0.76,-1.84,-1.04
+804,swamp white oak,Quercus bicolor,4,3,0.00,-0.00,-0.00,-0.00,-0.00
+806,scarlet oak,Quercus coccinea,3.5,1,1.73,-1.41,-0.76,-1.36,-1.15
+808,Durand oak,Quercus durandii,3.5,3,0.00,0.00,0.00,0.00,0.00
+809,northern pin oak,Quercus ellipsoidalis,4,2,0.00,0.00,0.00,0.00,0.00
+812,southern red oak,Quercus falcata var.falcata,3.5,1,1.05,1.17,0.54,1.10,0.77
+813,cherrybark oak,Quercus falcata var.pagodifolia,3,2,0.00,0.54,0.13,0.54,0.35
+816,bear oak:scrub oak,Quercus ilicifolia,1,3,0.00,0.00,0.00,0.00,0.00
+817,shingle oak,Quercus imbricaria,3.5,2,0.00,0.29,0.00,0.15,0.00
+819,turkey oak,Quercus laevis,1.5,1,0.00,0.03,0.00,0.00,0.00
+820,laurel oak,Quercus laurifolia,1,1,0.00,0.40,0.06,0.34,0.07
+822,overcup oak,Quercus lyrata,0,2,0.00,0.12,0.00,0.23,0.02
+823,bur oak,Quercus macrocarpa,0,2,0.00,0.23,0.00,0.02,0.00
+824,blackjack oak,Quercus marilandica,3,2,0.10,1.99,0.81,1.89,1.17
+825,swamp chestnut oak,Quercus michauxii,1,2,0.00,0.01,0.02,0.01,0.02
+826,chinkapin oak,Quercus muehlenbergii,4,2,0.07,0.19,0.06,0.14,0.10
+827,water oak,Quercus nigra,2.5,1,0.26,2.88,0.87,2.56,1.29
+828,Nuttall oak,Quercus nuttallii,2.5,3,0.00,0.00,0.00,0.00,0.00
+830,pin oak,Quercus palustris,4.5,2,0.20,0.26,-0.17,0.09,-0.16
+831,willow oak,Quercus phellos,0,2,0.40,0.71,0.18,0.57,0.40
+832,chestnut oak,Quercus prinus,2,1,3.10,-1.87,-1.19,-1.83,-1.53
+833,northern red oak,Quercus rubra,2.5,1,2.88,-1.95,-0.86,-1.72,-1.22
+834,Shumard oak,Quercus shumardii,3,3,0.00,0.68,0.00,0.71,0.06
+835,post oak,Quercus stellata,4,1,0.52,7.28,2.68,7.21,4.44
+837,black oak,Quercus velutina,1.5,1,3.18,-0.81,-0.21,-0.45,0.09
+838,live oak,Quercus virginiana,4,2,0.00,0.00,0.00,0.00,0.00
+842,bluejack oak,Quercus incana,2.5,2,0.00,0.00,0.00,0.00,0.00
+901,black locust,Robinia pseudoacacia,0,3,1.39,-1.24,-0.49,-1.21,-0.79
+921,peachleaf willow,Salix amygdaloides,1,3,0.00,0.00,0.00,0.00,0.00
+922,black willow,Salix nigra,3,3,0.00,0.81,-0.00,0.62,0.08
+931,sassafras,Sassafras albidum,4,1,2.28,-1.20,-0.72,-1.20,-0.95
+935,American mountain-ash,Sorbus americana,2.5,2,0.00,0.00,0.00,0.00,0.00
+951,American basswood,Tilia americana,1,2,0.17,-0.13,-0.02,-0.13,-0.06
+971,winged elm,Ulmus alata,4.5,1,0.03,4.47,1.98,4.52,3.02
+972,American elm,Ulmus americana,4.5,2,0.68,1.95,0.05,1.45,0.47
+973,cedar elm,Ulmus crassifolia,3,3,0.00,0.60,0.00,0.70,0.19
+975,slippery elm,Ulmus rubra,0,2,0.37,0.33,0.02,0.28,0.11
+977,rock elm,Ulmus thomasii,3.5,3,0.00,0.00,0.00,0.00,0.00
